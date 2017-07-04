@@ -5,8 +5,9 @@ Using Angular 4 with Electron
 
 After download
 
-npm install
-npm start
+>npm install
+
+>npm start
 
 
 
