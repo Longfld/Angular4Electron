@@ -13,6 +13,9 @@ After download
 
 Every time you change your code it should be enough just reloading Electron via “View ⟶ Reload” or with Cmd-R (Ctrl-R on Windows)
 
+For Angualr Material inside electron:
+https://github.com/Longfld/electron-angular-material
+
 For  Electron quick start:
 https://electron.atom.io/docs/tutorial/quick-start/
 
