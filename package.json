@@ -28,6 +28,6 @@
     "@types/node": "6.0.46",
     "concurrently": "3.2.0",
     "typescript": "2.6.1",
-    "electron": "2.0.8"
+    "electron": "9.1.0"
   }
 }
